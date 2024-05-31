@@ -1,9 +1,9 @@
-main.name = "Gotcha"
+main.name = "CHANGEME"
 main.lang = "en"
-main.whitelist = [ "Whore House",]
+main.whitelist = [ "YOUR_NETWORK_HERE"]
 main.plugins.grid.enabled = true
 main.plugins.grid.report = true
-main.plugins.grid.exclude = [ "Whore House",]
+main.plugins.grid.exclude = [ "YOUR_NETWORK_HERE"]
 
 main.plugins.auto-update.enabled = true
 main.plugins.auto-update.install = true
